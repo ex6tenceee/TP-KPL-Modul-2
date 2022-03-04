@@ -29,7 +29,7 @@ namespace GUI_KPL_MOD2
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            this.label1.Text = "HALO " + this.textBox1.Text;
         }
 
         private void button1_MouseClick(object sender, MouseEventArgs e)
