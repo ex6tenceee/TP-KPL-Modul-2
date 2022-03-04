@@ -1,0 +1,11 @@
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\bin\Debug\GUI KPL MOD2.exe.config
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\bin\Debug\GUI KPL MOD2.exe
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\bin\Debug\GUI KPL MOD2.pdb
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\obj\Debug\GUI KPL MOD2.csproj.AssemblyReference.cache
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\obj\Debug\GUI KPL MOD2.csproj.SuggestedBindingRedirects.cache
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\obj\Debug\GUI_KPL_MOD2.Properties.Resources.resources
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\obj\Debug\GUI KPL MOD2.csproj.GenerateResource.cache
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\obj\Debug\GUI KPL MOD2.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\obj\Debug\GUI KPL MOD2.exe
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\obj\Debug\GUI KPL MOD2.pdb
+C:\Users\NITRO\source\repos\TP MOD2 KPL\GUI KPL MOD2\GUI KPL MOD2\obj\Debug\GUI_KPL_MOD2.Form1.resources
